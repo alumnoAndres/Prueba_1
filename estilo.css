@@ -1,0 +1,17 @@
+header{
+    background-color: gold;
+    text-align: center;
+    text-shadow: black 6px 6px 2px;
+}
+
+section{
+    background-color: turquoise;
+}
+
+p.section1{
+    text-align: center;
+}
+p.section2{
+    text-indent: 30px;
+    margin-left: 25px;
+}
